@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  font-size: 34px;
+  background-color: orange
+}
+
+#bigtxt {
+  font-size: 44px;
+  font-variant: small-caps;
+  font-family: oblique;
+}
+
+header {
+  padding-right: 18px
+  padding-bottom: 24px;
+}
+
+h1 {
+  color: white;
+  font-size: 67px;
+  font-weight: 800;
+}
+
+p {
+  color: red;
+  background-color: purple;
+  font-style: italic;
+}
+
+img {
+  margin: 14px;
+  border: 14px solid green;
+  padding: 12px;
+}
+
+h4 {
+  text-align: right;
+  margin-right: 44px
+}
