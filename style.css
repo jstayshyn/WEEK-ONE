@@ -1,7 +1,5 @@
 body {
-  text-align: center;
-  font-size: 34px;
-  background-color: orange
+  background-color: orange;
 }
 
 #bigtxt {
@@ -10,30 +8,45 @@ body {
   font-family: oblique;
 }
 
-header {
-  padding-right: 18px
-  padding-bottom: 24px;
+img {
+  margin: 14px;
+  border: 14px solid green;
+  padding: 12px;
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  width: 18%;
+  display: block;
+  filter: grayscale(50%);
+}
+
+.align-div {
+  background-color: #EA9738;
+}
+
+ul {
+  text-align: center;
+  font-size: 34px;
+  background-color: orange;
+  list-style-type: square;
+}
+
+aside section h4 {
+  color: #1139BD;
+  font-size: 45px;
+  text-align: center;
+  background-color: #EA9738;
 }
 
 h1 {
   color: white;
   font-size: 67px;
   font-weight: 800;
+  text-align: center;
+  text-decoration: underline purple;
 }
 
 p {
-  color: red;
-  background-color: purple;
-  font-style: italic;
-}
-
-img {
-  margin: 14px;
-  border: 14px solid green;
-  padding: 12px;
-}
-
-h4 {
-  text-align: right;
-  margin-right: 44px
+  font-size: 40px;
+  text-align: center;
 }
